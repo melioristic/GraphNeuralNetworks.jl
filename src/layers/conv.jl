@@ -1093,7 +1093,7 @@ edge pseudo-cordinate array 'U' of size `(num_features, num_edges)`
 - `init`: Weights' initializer. Default `glorot_uniform`.
 - `residual`: Residual conncetion. Default `false`.
 
-#Examples
+# Examples
 
 ```julia
 # create data
